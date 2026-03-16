@@ -40,6 +40,7 @@ opencv-contrib-python==4.10.0.84
 tensorflow==2.17.0    # 2.19 / 2.21 might be very new / unstable in 2025–2026
 ```
 ## How to Run (Inference)
+1. Download the [model](https://drive.google.com/file/d/1oEMoZySilJ6JUUh4XPICuFiuIJ5i886y/view?usp=sharing), put it into the same directory as application.py
 1. Place your input image anywhere (supports jpg, png, tiff, etc.)
 2. Edit application.py and update the paths:
 
